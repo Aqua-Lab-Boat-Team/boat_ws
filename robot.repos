@@ -1,6 +1,5 @@
 repositories:
-	boat_control:
-		type: git
-		url: git@github.com:Aqua-Lab-Boat-Team/boat_control.git
-		version: main
-		
+ boat_control:
+  type: git
+  url: git@github.com:Aqua-Lab-Boat-Team/boat_control.git
+  version: main
