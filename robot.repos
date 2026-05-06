@@ -3,3 +3,7 @@ repositories:
   type: git
   url: git@github.com:Aqua-Lab-Boat-Team/boat_control.git
   version: main
+ ublox:
+  type: git
+  url: git@github.com:KumarRobotics/ublox.git
+  version: ros2
